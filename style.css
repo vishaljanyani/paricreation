@@ -36,7 +36,7 @@ nav a:hover {
   padding: 50px 20px;
   text-align: center;
   background: linear-gradient(rgba(179,30,111,0.8), rgba(179,30,111,0.8)),
-              url('images/banner.jpg') no-repeat center/cover;
+              url('images/banner.png') no-repeat center/cover;
   color: white;
 }
 .hero h2 {
@@ -95,3 +95,4 @@ footer {
   text-align: center;
   padding: 15px;
 }
+
